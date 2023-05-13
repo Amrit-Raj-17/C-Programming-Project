@@ -1,6 +1,4 @@
-/*
- * C Program to Play the Tic Tac Toe Game
- */
+//C Program to Play the Tic Tac Toe Game
  
 #include <stdio.h>
  
